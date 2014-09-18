@@ -10,7 +10,7 @@ Just read some of these things. Hopefully it'll help clear some things up.
 
 <img src="http://www.tonymarston.net/php-mysql/model-view-controller-01.png">
 
-1 [Sinatra Documentation](git@github.com:flatiron-school-curriculum/hs-sinatra-resources.git)
+1 [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 
 ###Sinatra MVC File Structure
 
