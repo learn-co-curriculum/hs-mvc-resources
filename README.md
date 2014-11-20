@@ -10,6 +10,10 @@ Okay, okay! Here are some resources on the Model-View-Controller structure and S
 
 <img src="http://www.tonymarston.net/php-mysql/model-view-controller-01.png">
 
+###It's all about documentation, documentation, documentation
+
+Check out the [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
+
 ###Sinatra MVC File Structure
 
 #### What does the File Structure Look Like?
@@ -67,8 +71,4 @@ The `db` directory currently has three items: a `migrate` directory, `seeds.rb` 
 #### `public` directory
 
 The `public` directory holds our front-end assets. In the example above, it holds a `stylesheets` directory where all of our stylesheets are located. Javascript directories and any other front-end assets would be stored in `public` as well.
-
-###It's all about documentation, documentation, documentation
-
-Check out the [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 
