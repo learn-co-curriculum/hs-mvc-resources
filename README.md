@@ -4,13 +4,11 @@ languages: ruby
 type: resources
 ---
 
-## SINATRA AND MVC IS CONFUSING!!!
+## TELL ME MORE ABOUT SINATRA AND MVC!!!
 
-Just read some of these things. Hopefully it'll help clear some things up.
+Okay, okay! Here are some more resources on the Model-View-Controller structure and the Sinatra framework that we'll be using to create our web applications.
 
 <img src="http://www.tonymarston.net/php-mysql/model-view-controller-01.png">
-
-1 [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 
 ###Sinatra MVC File Structure
 
@@ -70,4 +68,7 @@ The `db` directory currently has three items: a `migrate` directory, `seeds.rb` 
 
 The `public` directory holds our front-end assets. In the example above, it holds a `stylesheets` directory where all of our stylesheets are located. Javascript directories and any other front-end assets would be stored in `public` as well.
 
+###It's all about documentation, documentation, documentation
+
+Check out the [Sinatra Documentation](http://www.sinatrarb.com/intro.html)
 
