@@ -6,7 +6,7 @@ type: resources
 
 ## TELL ME MORE ABOUT SINATRA AND MVC!!!
 
-Okay, okay! Here are some more resources on the Model-View-Controller structure and the Sinatra framework that we'll be using to create our web applications.
+Okay, okay! Here are some resources on the Model-View-Controller structure and Sinatra - the framework that we'll be using to create our web applications.
 
 <img src="http://www.tonymarston.net/php-mysql/model-view-controller-01.png">
 
