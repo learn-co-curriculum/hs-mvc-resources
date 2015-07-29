@@ -1,8 +1,4 @@
----
-tags: sintra, resources, kids, ruby
-languages: ruby
-type: resources
----
+
 
 ## TELL ME MORE ABOUT SINATRA AND MVC!!!
 
