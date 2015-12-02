@@ -68,3 +68,5 @@ The `db` directory currently has three items: a `migrate` directory, `seeds.rb` 
 
 The `public` directory holds our front-end assets. In the example above, it holds a `stylesheets` directory where all of our stylesheets are located. Javascript directories and any other front-end assets would be stored in `public` as well.
 
+
+<a href='https://learn.co/lessons/hs-mvc-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
